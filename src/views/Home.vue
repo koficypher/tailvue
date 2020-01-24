@@ -1,7 +1,11 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+  <div class="flex flex-col">
+    <img
+      class="object-none object-center"
+      alt="Vue logo"
+      src="../assets/logo.png"
+    />
+    <HelloWorld msg="TailVue 1.0" />
   </div>
 </template>
 
